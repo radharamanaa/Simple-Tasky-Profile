@@ -1,0 +1,20 @@
+body{
+    margin:0;
+}
+.main{
+    width: 50%;
+    margin:0 auto;
+}
+
+
+.input-wrapper{
+    /* position:relative; */
+    max-width: 30vw;
+    min-width: 30vw;
+    min-height: 40vh;
+    text-align: center;
+        background-color: dodgerblue;
+    padding: 50px 100px;
+    box-shadow: 5px 10px 50px #888888;
+    margin:20px auto;
+}

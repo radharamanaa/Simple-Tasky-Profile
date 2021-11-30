@@ -1,0 +1,36 @@
+
+@media only screen and (max-width: 600px) {
+    .task-list {
+      font-size: .5rem;
+    }
+  }
+.task-list{
+    /* position: absolute; */
+    max-width: 25vw;
+    min-width: 20vw;
+    line-height: 25px;
+    display: flex;
+    flex-direction: row;
+    font-size: 1.5rem;
+    padding: 1em 10px;
+    text-align: left;
+    color: #e1e1e1;
+    background-color: #c23f4c;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom:  5px;
+    box-shadow: 5px 20px 50px #955412;
+    border-radius: 5px;
+    /* margin-left: 40px; */
+
+}
+.text-left{
+    flex-basis: 90%;
+    text-align: left;
+}
+.icon-right{
+    cursor: pointer;
+    flex-basis: 10%;
+    justify-content: right;
+    text-align: right;
+}
