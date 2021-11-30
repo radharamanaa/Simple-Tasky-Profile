@@ -11,7 +11,7 @@ function App() {
       <Header name="Abhijeet Mishra" one="Todo Application" two="Profile"/>
       </div>
       <Routes>
-        <Route path='/' exact element={<TodoApplPage/>}/>
+        <Route path='/' element={<TodoApplPage/>}/>
         <Route path='/profile' exact element={<Profile/>}/>
       </Routes>
     </>
