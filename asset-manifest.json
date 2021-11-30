@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Simple-Tasky-Profile/static/css/main.61eba9c1.chunk.css",
+    "main.js": "/Simple-Tasky-Profile/static/js/main.f8102ce8.chunk.js",
+    "main.js.map": "/Simple-Tasky-Profile/static/js/main.f8102ce8.chunk.js.map",
+    "runtime-main.js": "/Simple-Tasky-Profile/static/js/runtime-main.2e14dd35.js",
+    "runtime-main.js.map": "/Simple-Tasky-Profile/static/js/runtime-main.2e14dd35.js.map",
+    "static/js/2.e8ce458b.chunk.js": "/Simple-Tasky-Profile/static/js/2.e8ce458b.chunk.js",
+    "static/js/2.e8ce458b.chunk.js.map": "/Simple-Tasky-Profile/static/js/2.e8ce458b.chunk.js.map",
+    "static/js/3.46277df6.chunk.js": "/Simple-Tasky-Profile/static/js/3.46277df6.chunk.js",
+    "static/js/3.46277df6.chunk.js.map": "/Simple-Tasky-Profile/static/js/3.46277df6.chunk.js.map",
+    "index.html": "/Simple-Tasky-Profile/index.html",
+    "static/css/main.61eba9c1.chunk.css.map": "/Simple-Tasky-Profile/static/css/main.61eba9c1.chunk.css.map",
+    "static/js/2.e8ce458b.chunk.js.LICENSE.txt": "/Simple-Tasky-Profile/static/js/2.e8ce458b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e14dd35.js",
+    "static/js/2.e8ce458b.chunk.js",
+    "static/css/main.61eba9c1.chunk.css",
+    "static/js/main.f8102ce8.chunk.js"
+  ]
+}
